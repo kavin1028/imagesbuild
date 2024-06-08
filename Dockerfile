@@ -1,2 +1,2 @@
-FROM docker.io/library/postgres:latest
+FROM b3log/siyuan
 LABEL MAINTAINER=master@zhoumx.net BUILDTYPE=Aliyun
