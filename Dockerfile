@@ -1,2 +1,2 @@
-FROM wordpress:php8.3-fpm
+FROM mysql:8.0
 LABEL MAINTAINER=master@zhoumx.net BUILDTYPE=Aliyun
